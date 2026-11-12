@@ -1,0 +1,7 @@
+/ocaml/karp
+*.cmi
+*.cmx
+*.cmo
+*.cma
+*.o
+*.a
